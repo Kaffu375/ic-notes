@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//home-page/"}
+{"dg-publish":true,"tags":null,"dg_home":true,"permalink":"//home-page/","dgPassFrontmatter":true}
 ---
 
 This is Aiden‘s IC notes
