@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"update":"2025-07-27","permalink":"/amplifier/switching-cap/","dgPassFrontmatter":true}
+{"dg-publish":true,"update":"2025-07-27","permalink":"/amplifier/switching-cap/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-27T19:44:00.273+08:00","updated":"2025-07-29T00:09:04.209+08:00"}
 ---
 
 ---
