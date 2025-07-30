@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"update":"2025-07-27","permalink":"/基础公式/switching cap/","dgPassFrontmatter":true}
+{"dg-publish":true,"update":"2025-07-27","permalink":"//switching-cap/","dgPassFrontmatter":true}
 ---
 
 ---
